@@ -1,0 +1,43 @@
+{
+  "name": "earthquake-visualizations",
+  "version": "1.0.0",
+  "description": "visualize usgs data",
+  "main": "index.js",
+  "scripts": {
+    "react-dev": "webpack -d --watch",
+    "server-dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyhoang/hrsf82-mvp.git"
+  },
+  "keywords": [
+    "earthquake",
+    "visualization",
+    "usgs"
+  ],
+  "author": "Tim Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothyhoang/hrsf82-mvp/issues"
+  },
+  "homepage": "https://github.com/timothyhoang/hrsf82-mvp#readme",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "d3": "^4.10.2",
+    "express": "^4.15.0",
+    "google-maps": "^3.2.1",
+    "jquery": "^3.1.1",
+    "mongoose": "^4.8.6",
+    "rc-slider": "^8.3.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}

@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Earthquake Live Feed Visualization
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > Live seismic geological data visualization for anyone interested
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Allows user to see where earthquakes are being recorded in real time
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Not being able to visualize earthquake data in a friendly way
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Providing easy to digest visualizations using real time data
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > I don't like snails
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Get data from earthquake.usgs.gov, rending in real time using d3
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > This app is boring
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
